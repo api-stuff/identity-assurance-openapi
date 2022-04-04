@@ -29,6 +29,7 @@ tags:
 paths:
   /identities/v1/userinfo:
     post:
+      summary: Endpoint for Userinfo requests
       tags:
         - Userinfo
       requestBody:
